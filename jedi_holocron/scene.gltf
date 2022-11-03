@@ -1,0 +1,485 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 90,
+      "max": [
+        0.941016674041748,
+        6.198502540588379,
+        1.300620198249817
+      ],
+      "min": [
+        -1.0803403854370117,
+        2.070434093475342,
+        -1.1204566955566406
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1080,
+      "componentType": 5126,
+      "count": 90,
+      "max": [
+        0.994835615158081,
+        0.6974877119064331,
+        0.9086661338806152
+      ],
+      "min": [
+        -0.9971376061439514,
+        -0.622503936290741,
+        -0.9814173579216003
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 90,
+      "max": [
+        0.6939408183097839,
+        0.9660418033599854,
+        0.6982345581054688,
+        1.0
+      ],
+      "min": [
+        -0.9848656058311462,
+        -0.41440150141716003,
+        -0.9909667372703552,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 90,
+      "max": [
+        0.31555116176605225,
+        0.3880285620689392
+      ],
+      "min": [
+        0.007320135831832886,
+        0.013088822364807129
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 720,
+      "componentType": 5126,
+      "count": 90,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 186,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2160,
+      "componentType": 5126,
+      "count": 897,
+      "max": [
+        4.12052583694458,
+        8.241044044494629,
+        4.12052583694458
+      ],
+      "min": [
+        -4.12052583694458,
+        4.090771454912101e-08,
+        -4.12052583694458
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12924,
+      "componentType": 5126,
+      "count": 897,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1440,
+      "componentType": 5126,
+      "count": 897,
+      "max": [
+        1.0,
+        0.996658980846405,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9966858625411987,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1440,
+      "componentType": 5126,
+      "count": 897,
+      "max": [
+        0.9873195290565491,
+        0.9783706068992615
+      ],
+      "min": [
+        0.026618342846632004,
+        0.016172343865036964
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8616,
+      "componentType": 5126,
+      "count": 897,
+      "max": [
+        0.9908360838890076,
+        0.9865758419036865
+      ],
+      "min": [
+        0.01462817844003439,
+        0.013827979564666748
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 744,
+      "componentType": 5125,
+      "count": 1311,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Greggory_Fisher (https://sketchfab.com/Greggory_Fisher)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/jedi-holocron-1d5e04a564464ff9b0675a44309bce9f",
+      "title": "Jedi Holocron"
+    },
+    "generator": "Sketchfab-14.32.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 5988,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15792,
+      "byteOffset": 5988,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23688,
+      "byteOffset": 21780,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15792,
+      "byteOffset": 45468,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 61260,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/M_Holocron_Crystal_diffuse.png"
+    },
+    {
+      "uri": "textures/M_Holocron_Crystal_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/M_Holocron_Crystal_emissive.png"
+    },
+    {
+      "uri": "textures/M_Holocron_Crystal_normal.png"
+    },
+    {
+      "uri": "textures/M_Holocron_Crystal_occlusion.png"
+    },
+    {
+      "uri": "textures/M_Holocron_Shell_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "emissiveFactor": [
+        0.1,
+        0.1,
+        0.1
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "name": "M_Holocron_Crystal",
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "emissiveFactor": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 5
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "name": "M_Holocron_Shell",
+      "normalTexture": {
+        "index": 3
+      },
+      "occlusionTexture": {
+        "index": 4
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "SM_Jedi_Holocron_M_Holocron_Crystal_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "SM_Jedi_Holocron_M_Holocron_Shell_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.9119604825973511,
+        -0.008783223107457253,
+        0.41018402576446533,
+        0.0,
+        0.3969584107398987,
+        -0.23378948867320995,
+        -0.887562096118927,
+        0.0,
+        0.10369236767292023,
+        0.9722475409507751,
+        -0.20972019433975198,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "48e76896cf074aa2a3e79d5e2619c58e.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "SM_Jedi_Holocron"
+    },
+    {
+      "mesh": 0,
+      "name": "SM_Jedi_Holocron_M_Holocron_Crystal_0"
+    },
+    {
+      "mesh": 1,
+      "name": "SM_Jedi_Holocron_M_Holocron_Shell_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
