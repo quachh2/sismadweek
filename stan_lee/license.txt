@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stan Lee
+* source:	https://sketchfab.com/3d-models/stan-lee-4f4d885f2fb2482893fee4ed17238ed9
+* author:	AsterOmice (https://sketchfab.com/johnalejandro_13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stan Lee" (https://sketchfab.com/3d-models/stan-lee-4f4d885f2fb2482893fee4ed17238ed9) by AsterOmice (https://sketchfab.com/johnalejandro_13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
