@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bugatti Chiron 300
+* source:	https://sketchfab.com/3d-models/bugatti-chiron-300-6f4e5a7fdd214bd6b4ab2441289bc7c2
+* author:	592818 (https://sketchfab.com/592818)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bugatti Chiron 300" (https://sketchfab.com/3d-models/bugatti-chiron-300-6f4e5a7fdd214bd6b4ab2441289bc7c2) by 592818 (https://sketchfab.com/592818) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
